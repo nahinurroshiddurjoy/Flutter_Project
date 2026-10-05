@@ -1,0 +1,5 @@
+{
+    "cmake.ignoreCMakeListsMissing": true,
+    "vscode-pets.petSize": "medium",
+    "vscode-pets.throwBallWithMouse": true
+}
