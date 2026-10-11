@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:idex_274_64g_durjoy/assignment2.dart';
 
 class Homepage extends StatelessWidget {
   const Homepage({super.key});
@@ -41,6 +42,7 @@ class Homepage extends StatelessWidget {
         mainAxisAlignment: MainAxisAlignment.center,
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
+          Assignment2(),
           Padding(
             padding: const EdgeInsets.fromLTRB(5, 0, 10, 0),
             child: TextButton(
