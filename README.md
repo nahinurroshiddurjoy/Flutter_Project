@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 # first_app
 =======
 # idex_274_64g_durjoy
->>>>>>> 826c3a3df9a19ffd9d5d7ad925c916b48dea8231
 
 A new Flutter project.
 
