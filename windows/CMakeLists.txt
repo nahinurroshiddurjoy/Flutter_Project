@@ -1,10 +1,18 @@
 # Project-level configuration.
 cmake_minimum_required(VERSION 3.14)
+<<<<<<< HEAD
 project(first_app LANGUAGES CXX)
 
 # The name of the executable created for the application. Change this to change
 # the on-disk name of your application.
 set(BINARY_NAME "first_app")
+=======
+project(idex_274_64g_durjoy LANGUAGES CXX)
+
+# The name of the executable created for the application. Change this to change
+# the on-disk name of your application.
+set(BINARY_NAME "idex_274_64g_durjoy")
+>>>>>>> 826c3a3df9a19ffd9d5d7ad925c916b48dea8231
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.

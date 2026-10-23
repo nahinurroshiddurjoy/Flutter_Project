@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "first_app",
     "short_name": "first_app",
+=======
+    "name": "idex_274_64g_durjoy",
+    "short_name": "idex_274_64g_durjoy",
+>>>>>>> 826c3a3df9a19ffd9d5d7ad925c916b48dea8231
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

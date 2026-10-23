@@ -90,12 +90,21 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
+<<<<<<< HEAD
             VALUE "FileDescription", "first_app" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "first_app" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2026 com.example. All rights reserved." "\0"
             VALUE "OriginalFilename", "first_app.exe" "\0"
             VALUE "ProductName", "first_app" "\0"
+=======
+            VALUE "FileDescription", "idex_274_64g_durjoy" "\0"
+            VALUE "FileVersion", VERSION_AS_STRING "\0"
+            VALUE "InternalName", "idex_274_64g_durjoy" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2026 com.example. All rights reserved." "\0"
+            VALUE "OriginalFilename", "idex_274_64g_durjoy.exe" "\0"
+            VALUE "ProductName", "idex_274_64g_durjoy" "\0"
+>>>>>>> 826c3a3df9a19ffd9d5d7ad925c916b48dea8231
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

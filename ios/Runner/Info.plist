@@ -7,7 +7,11 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
+<<<<<<< HEAD
 	<string>First App</string>
+=======
+	<string>Idex 274 64g Durjoy</string>
+>>>>>>> 826c3a3df9a19ffd9d5d7ad925c916b48dea8231
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -15,7 +19,11 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
+<<<<<<< HEAD
 	<string>first_app</string>
+=======
+	<string>idex_274_64g_durjoy</string>
+>>>>>>> 826c3a3df9a19ffd9d5d7ad925c916b48dea8231
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>

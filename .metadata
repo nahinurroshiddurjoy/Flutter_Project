@@ -15,9 +15,30 @@ migration:
     - platform: root
       create_revision: e8113bf45620cbeb8aff64947ee4c93e16adb4cf
       base_revision: e8113bf45620cbeb8aff64947ee4c93e16adb4cf
+<<<<<<< HEAD
     - platform: web
       create_revision: e8113bf45620cbeb8aff64947ee4c93e16adb4cf
       base_revision: e8113bf45620cbeb8aff64947ee4c93e16adb4cf
+=======
+    - platform: android
+      create_revision: e8113bf45620cbeb8aff64947ee4c93e16adb4cf
+      base_revision: e8113bf45620cbeb8aff64947ee4c93e16adb4cf
+    - platform: ios
+      create_revision: e8113bf45620cbeb8aff64947ee4c93e16adb4cf
+      base_revision: e8113bf45620cbeb8aff64947ee4c93e16adb4cf
+    - platform: linux
+      create_revision: e8113bf45620cbeb8aff64947ee4c93e16adb4cf
+      base_revision: e8113bf45620cbeb8aff64947ee4c93e16adb4cf
+    - platform: macos
+      create_revision: e8113bf45620cbeb8aff64947ee4c93e16adb4cf
+      base_revision: e8113bf45620cbeb8aff64947ee4c93e16adb4cf
+    - platform: web
+      create_revision: e8113bf45620cbeb8aff64947ee4c93e16adb4cf
+      base_revision: e8113bf45620cbeb8aff64947ee4c93e16adb4cf
+    - platform: windows
+      create_revision: e8113bf45620cbeb8aff64947ee4c93e16adb4cf
+      base_revision: e8113bf45620cbeb8aff64947ee4c93e16adb4cf
+>>>>>>> 826c3a3df9a19ffd9d5d7ad925c916b48dea8231
 
   # User provided section
 
